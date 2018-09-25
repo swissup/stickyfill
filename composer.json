@@ -3,7 +3,7 @@
     "description": "The most accurate sticky polyfill out in the wild for Magento 2",
     "type": "metapackage",
     "version": "1.1.0",
-    "license": "OSL-3.0",
+    "license": "MIT",
     "require": {
         "swissup/module-stickyfill": "^1.1.0"
     }
